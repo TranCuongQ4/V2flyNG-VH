@@ -4,6 +4,9 @@
 
 - Một vài hình ảnh của ứng dụng
 
+![ic_launcher_round](https://user-images.githubusercontent.com/92734523/138903657-e89ec841-e262-4755-b8bd-af43f6f8cf79.png)
+
+
 ![0a4a17d36b88a3d6fa992](https://user-images.githubusercontent.com/92734523/138901058-dafdae30-e8ed-47bd-8e0a-d8fda27bd9d4.jpg)
 
 
